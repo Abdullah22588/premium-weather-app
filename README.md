@@ -66,13 +66,9 @@ Follow these steps to run the project locally:
 
 ## 📸 Screenshots
 
-<<<<<<< HEAD
-
 ![image](/weather-app/public/images/Capture1.PNG?raw=true "Image 1")
 ![image](/weather-app/public/images/Capture2.PNG?raw=true "Image 2")
 ![image](/weather-app/public/images/Capture3.PNG?raw=true "Image 3")
-=======
->>>>>>> de63dd70cd88ca391a9d75f161fe6b8f224aeedc
 
 
 
