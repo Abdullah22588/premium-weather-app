@@ -38,7 +38,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/Abdullah22588/premium-weather-app.git
     cd weather-app
     ```
 
@@ -66,14 +66,13 @@ Follow these steps to run the project locally:
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
 
----
+
 
 ## 👨‍💻 Author
 
 **Abdullah Khan**
--   [GitHub Profile](https://github.com/yourusername)
+-   [GitHub Profile](https://github.com/Abdullah22588)
 
 ---
 
