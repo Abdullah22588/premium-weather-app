@@ -76,7 +76,7 @@ Follow these steps to run the project locally:
 ## 👨‍💻 Author
 
 **Abdullah Khan**
--   [GitHub Profile](https://github.com/yourusername)
+-   [GitHub Profile](https://github.com/Abdullah22588)
 
 ---
 
