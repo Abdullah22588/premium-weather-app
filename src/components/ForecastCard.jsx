@@ -5,7 +5,6 @@ import { getIconUrl } from '@/api/weatherApi';
 export default function ForecastCard({ daily }) {
   if (!daily || daily.length === 0) return null;
 
-  // Take only first 5 days if more are provided
   const forecastDays = daily.slice(0, 5);
 
   return (

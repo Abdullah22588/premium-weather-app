@@ -27,7 +27,7 @@ export default function ThemeToggle({ className = "" }) {
                 )}
             </div>
 
-            {/* Background Icons (Optional subtle hints behind the toggle) */}
+            {/* {} */}
             <div className="absolute left-2 top-1/2 -translate-y-1/2 pointer-events-none opacity-50">
                 {!isDark && <span className="text-xs font-bold text-yellow-200">Light</span>}
             </div>

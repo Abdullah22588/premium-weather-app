@@ -1,6 +1,6 @@
 // src/components/SearchBar.jsx
 import React, { useState } from "react";
-import "../App.css"; // ensure styles are loaded
+import "../App.css"; 
 
 export default function SearchBar({ onSearch }) {
   const [q, setQ] = useState("");
